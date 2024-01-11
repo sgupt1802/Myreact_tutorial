@@ -44,7 +44,7 @@ Here are some resources I've found helpful in my learning journey:
 
 ## How to Run the Code
 
-1. Clone the repository: `git clone https://github.com/your-username/React-Learning-Journey.git`
+1. Clone the repository: `git clone https://github.com/sgupt1802/Myreact_tutorial.git`
 2. Navigate to the project folder: `cd` *project name*
 3. Install dependencies: `npm install` and `tailwind` dependencies if you find the tailwind.config.js in the project.
 You can use this [Link](https://tailwindcss.com/docs/installation) for the tailwind injection in your project through terminal.
