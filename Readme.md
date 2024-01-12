@@ -41,6 +41,7 @@ Here are some resources I've found helpful in my learning journey:
 
 - **Day 4:** Learnt about the props. In simple words they are the information that you pass to a JSX tag in your components. Made the Background changer project
 
+- **Day 5:**  Practiced React by making the Password Generator project and also gained little idea about useEffect, useCallback, useRef(for copying the passsword) hooks of react. useCallback is used to cache a function based on the dependency array.
 
 ## How to Run the Code
 
