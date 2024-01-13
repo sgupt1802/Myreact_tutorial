@@ -7,6 +7,8 @@ function App() {
   const [charAllow, setCharAllow] = useState(false)
   const [password, setPassword] = useState("")
   const [isCopyClicked, setIsCopyClicked] = useState(false);
+
+  
   const passwordRef = useRef(null)
 
   const copyToClipboard = useCallback(() => {
