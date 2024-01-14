@@ -43,6 +43,10 @@ Here are some resources I've found helpful in my learning journey:
 
 - **Day 5:**  Practiced React by making the Password Generator project and also gained little idea about useEffect, useCallback, useRef(for copying the passsword) hooks of react. useCallback is used to cache a function based on the dependency array.
 
+- **Day 6:** Learnt about how we can make our own custom hooks and started with the currencyConverter project. Made the InputBox component
+
+- **Day 7:** Made the final App.jsx for the currencyConverter project. Learnt about the useId hook of react and about the parameter passing in components function. currencyConverter project finished.
+
 ## How to Run the Code
 
 1. Clone the repository: `git clone https://github.com/sgupt1802/Myreact_tutorial.git`
