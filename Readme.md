@@ -47,6 +47,7 @@ Here are some resources I've found helpful in my learning journey:
 
 - **Day 7:** Made the final App.jsx for the currencyConverter project. Learnt about the useId hook of react and about the parameter passing in components function. currencyConverter project finished.
 
+- **After few weeks:**: Finally started the basics of the REDUX.
 ## How to Run the Code
 
 1. Clone the repository: `git clone https://github.com/sgupt1802/Myreact_tutorial.git`
